@@ -10,7 +10,7 @@
 ## Results
 
 The analysis summarized the data into the three city types of Urban, Suburban and Rural and created metrics to show total rides, total drivers, total fares, average fare per ride and average fare per driver as seen in the below image.
-![](https://github.com/timbialek/PyBer_Analysis_Mod_5/blob/main/Resources/pyber_metrics_summary.png)
+![](https://github.com/timbialek/PyBer_Analysis_Mod_5/blob/main/Resources/pyber_metrics_summary.PNG)
 
 * Rural Cities have the least number of riders, drivers and total fares but have the highest average fare per ride and average fare per driver.  In rural areas locations tend to be spread further apart which is probably driving up the average fare since the rides cover a longer distance and take more time.  The low ridership could be due to more people owning their own transportation since most places are probably not within walking distance.
 
